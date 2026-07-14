@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-g8jvsn.pajaktoto31mct.cfd/sitemap.xml
